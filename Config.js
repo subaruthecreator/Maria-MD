@@ -13,11 +13,7 @@ global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
 
 //sticker details
 global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
-global.packname = '🩵🕊✨━━╬٨ـﮩﮩÑĒVĒR╬GĪVĒ╬ŪP٨ـﮩﮩ
-🍂✨
-+91 9614477116🌜🥀
-       ⚡uosɹɐd ʎɹɐuᴉpɹO⚡    
-                                     ϨⴑⲂⲀꞄⴑ🕊⚡'
+global.packname = '❤‍🩹𝓘❜𝓶 𝓷𝓸𝓽 𝓪𝓯𝓻𝓪𝓲𝓭 𝓸𝓯 𝓼𝓽𝓸𝓻𝓶𝓼 𝓫𝓮𝓬𝓪𝓾𝓼𝓮 𝓘❜𝓶 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 𝓽𝓸 𝓼𝓪𝓲𝓵 𝓶𝔂 𝓸𝔀𝓷 𝓼𝓱𝓲𝓹👀🛥ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ+₉₆₁₄₄₇₇₁₁₆ㅤ👀  𝖘𝖚𝖇𝖆𝖗𝖚ㅤㅤㅤㅤㅤㅤㅤ𝓞𝓷𝓵𝔂 𝓛𝓸𝓸𝓴 𝓗𝓮𝓮 𝓐𝓽𝓽𝓲𝓽𝓾𝓭𝓮😈 𝓦𝓪𝓵𝓪 𝓗𝓪𝓲 𝓑𝓾𝓽♥ 𝓓𝓲𝓵 𝓜𝓮 𝓚𝓸𝓲 𝓖𝓱𝓪𝓶𝓪𝓷𝓭 𝓝𝓪𝓱𝓲 𝓗𝓪𝓶𝓪𝓻𝓮😇'
 global.author = 'Maria Bot'
 //console view/theme
 global.themeemoji = '🧩'
